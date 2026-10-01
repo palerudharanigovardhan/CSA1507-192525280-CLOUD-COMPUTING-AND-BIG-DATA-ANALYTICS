@@ -32,7 +32,7 @@
 | **Department** | Institute of Computer Science and Engineering |
 | **Institution** | Saveetha School of Engineering |
 | **University** | Saveetha Institute of Medical and Technical Sciences |
-| **Academic Year** | 2026–2027 |
+| **Academic Year** | 2025–2029 |
 | **Faculty** | **Gnana Soundari** |
 | **Experiments** | 40 |
 | **Course Outcomes** | CO-1 to CO-5 |
