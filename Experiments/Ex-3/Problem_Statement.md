@@ -1,0 +1,3 @@
+# Problem Statement
+
+To develop a cloud-based **Flight Reservation System** using **Zoho One / Zoho Creator** that allows users to enter and manage flight booking details, including passenger information, trip type (One Way or Round Trip), departure location, destination, departure date, return date, number of travelers, travel class, fare type, and flight type (Domestic or International). The system should collect and store the submitted reservation details in the cloud and provide a user-friendly interface for managing flight reservations, thereby demonstrating **Software as a Service (SaaS)**.
