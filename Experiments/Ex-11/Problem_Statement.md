@@ -1,0 +1,3 @@
+# Problem Statement
+
+To develop a cloud-based **Online Supermarket System** using **Zoho One / Zoho Creator** to manage customer details, supermarket items, and order information. The system should allow users to enter customer details such as **Customer Name, Address, Phone Number, and Email**, maintain an **Item Classification Form** with item name, category, price, and available quantity, and record order details such as item name, quantity, order date, total amount, and order status. The application should store the submitted records in the cloud and provide an easy-to-use interface for managing supermarket products and customer orders, thereby demonstrating **Software as a Service (SaaS)**.
