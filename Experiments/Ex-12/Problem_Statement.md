@@ -1,0 +1,3 @@
+# Problem Statement
+
+To demonstrate **virtualization** by installing a **Type-2 Hypervisor** on a computer and creating and configuring a virtual machine with a host-supported operating system. The experiment involves installing virtualization software such as **Oracle VirtualBox or VMware Workstation**, creating a virtual machine, allocating memory, CPU, and storage resources, and installing a guest operating system such as Linux or Windows. The virtual machine should run independently within the host operating system, demonstrating how virtualization enables multiple operating systems to operate on the same physical computer.
